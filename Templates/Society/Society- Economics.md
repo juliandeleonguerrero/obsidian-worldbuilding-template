@@ -1,7 +1,9 @@
 ---
 tags:
-- economy
-- society
+  - econ
+  - society
+aliases:
+cover-image:
 ---
 > [!infobox]
 > # `{{title}}`

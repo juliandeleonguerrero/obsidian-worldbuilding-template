@@ -1,7 +1,9 @@
 ---
 tags:
-- location
-- space
+  - location
+  - space
+aliases:
+cover-image:
 ---
 > [!infobox]
 > # `{{title}}`
@@ -12,7 +14,6 @@ tags:
 > | Other Titles |  |
 > | Size |  |
 > | Prominent locations within {{title}} |   |
-
 # Description
 ## About
 

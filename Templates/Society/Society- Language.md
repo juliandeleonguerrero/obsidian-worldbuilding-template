@@ -2,6 +2,8 @@
 tags:
   - society
   - language
+aliases:
+cover-image:
 ---
 > [!infobox]
 > # `{{title}}`
@@ -15,7 +17,6 @@ tags:
 > | Early forms |   |
 > | Writing system |   |
 > 
-
 # {{Title}}
 
 

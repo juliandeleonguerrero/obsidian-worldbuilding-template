@@ -1,7 +1,10 @@
 ---
 tags:
-- general
-- group
+  - general
+  - group
+aliases:
+cover-image:
+group_status:
 ---
 > [!infobox]
 > # `{{title}}`
@@ -16,7 +19,6 @@ tags:
 | Ideology/Beliefs |   |
 > | Languages |  |
 > | Status |  |
-
 # Description
 
 

@@ -1,12 +1,17 @@
-# Date
+---
+tags:
+  - session-notes
+  - planning
+aliases:
+session_status:
+---
+# Plans for this session
 
-## Plans for this session
+
+
+# Relevant Linked Notes
 
 
 
-## Relevant Notes
-
-
-
-## Important Notes from this session
+# Important Notes from this session
 

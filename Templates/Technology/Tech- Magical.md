@@ -2,6 +2,7 @@
 tags:
   - technology
   - magic
+aliases:
 ---
 # About {{Title}}
 

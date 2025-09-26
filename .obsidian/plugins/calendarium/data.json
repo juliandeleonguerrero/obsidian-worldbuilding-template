@@ -15,9 +15,9 @@
   "eventFrontmatter": false,
   "parseDates": false,
   "version": {
-    "major": 1,
-    "minor": 3,
-    "patch": 3,
+    "major": 2,
+    "minor": 0,
+    "patch": 0,
     "beta": null
   },
   "debug": false,
@@ -25,5 +25,6 @@
   "askedAboutSync": false,
   "syncBehavior": "Ask",
   "inlineEventsTag": null,
-  "paths": []
+  "paths": [],
+  "autoParse": true
 }

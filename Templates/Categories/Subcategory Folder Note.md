@@ -1,6 +1,6 @@
 ---
 tags:
-- category
+  - subcategory
 ---
 # {{Title}}
 
@@ -8,4 +8,4 @@ tags:
 
 # Table of Contents
 
-%% Waypoint % %
+%% Landmark % %

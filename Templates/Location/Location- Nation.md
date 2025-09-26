@@ -5,6 +5,8 @@ tags:
   - polity
   - nation
   - society
+aliases:
+cover-image:
 ---
 > [!infobox]
 > # `{{title}}`
@@ -24,7 +26,6 @@ tags:
 > | Status |   |
 
 # Description
-
 ## About
 
 

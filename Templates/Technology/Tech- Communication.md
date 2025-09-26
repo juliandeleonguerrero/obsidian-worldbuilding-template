@@ -2,6 +2,7 @@
 tags:
   - technology
   - communication
+aliases:
 ---
 # About {{Title}}
 

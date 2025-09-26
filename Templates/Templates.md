@@ -9,9 +9,11 @@ The Templates folder exists to store templates that can be used throughout the w
 To use a template, simply create a note and title it appropriately, and then insert a template into that note. For convenience's sake, the default hotkey for inserting templates in this vault are **Ctrl+Shift+i**, but you can change the hotkey in the vault settings yourself, as desired.
 
 # Table of Contents
+
 %% Begin Waypoint %%
 - **Categories**
-	- [[Folder Note Template]]
+	- [[Main Category Folder Note]]
+	- [[Subcategory Folder Note]]
 - **Characters**
 	- [[Character- God]]
 	- [[Character- Royalty]]
@@ -26,14 +28,16 @@ To use a template, simply create a note and title it appropriately, and then ins
 	- [[Group- Population]]
 	- [[Group- Religious]]
 - **Life**
-	- [[Life- Animal]]
+	- [[Life- Beast]]
 	- [[Life- Humanoid]]
 	- [[Life- Magical]]
 	- [[Life- Plant]]
 - **Location**
+	- [[Location- Area Subdivision]]
 	- [[Location- Cosmology]]
 	- [[Location- Dungeon]]
 	- [[Location- Establishment]]
+	- [[Location- Feature]]
 	- [[Location- Landmark]]
 	- [[Location- Nation]]
 	- [[Location- Natural]]
@@ -52,6 +56,7 @@ To use a template, simply create a note and title it appropriately, and then ins
 	- [[Material- Weather]]
 - **Narrative**
 	- [[Session Note]]
+	- [[Storyline]]
 - **Society**
 	- [[Society- Art]]
 	- [[Society- Customs]]

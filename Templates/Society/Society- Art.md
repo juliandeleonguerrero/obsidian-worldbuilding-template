@@ -1,7 +1,9 @@
 ---
 tags:
-- art
-- society
+  - art
+  - society
+aliases:
+cover-image:
 ---
 > [!infobox]
 > # `{{title}}`

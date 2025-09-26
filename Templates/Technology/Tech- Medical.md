@@ -2,6 +2,7 @@
 tags:
   - technology
   - medical
+aliases:
 ---
 # About {{Title}}
 

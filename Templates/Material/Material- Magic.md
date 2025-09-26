@@ -1,7 +1,9 @@
 ---
 tags:
-- material
-- magic
+  - material
+  - magic
+aliases:
+cover-image:
 ---
 > [!infobox]
 > # `{{title}}`
@@ -12,7 +14,6 @@ tags:
 > | Type of Magic |  |
 > | Power Level |  |
 > | Origin/Caster|   |
-
 # Description
 
 

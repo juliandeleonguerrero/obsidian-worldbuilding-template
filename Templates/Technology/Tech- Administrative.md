@@ -2,6 +2,7 @@
 tags:
   - technology
   - admin
+aliases:
 ---
 # About {{Title}}
 

@@ -1,7 +1,10 @@
 ---
 tags:
-- religion
-- group
+  - religion
+  - group
+aliases:
+cover-image:
+group_status:
 ---
 > [!infobox]
 > # `{{title}}`

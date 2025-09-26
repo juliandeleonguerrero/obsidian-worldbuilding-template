@@ -1,7 +1,9 @@
 ---
 tags:
-- life
-- humanoid
+  - life
+  - humanoid
+aliases:
+cover-image:
 ---
 > [!infobox]
 > # `{{title}}`
@@ -14,17 +16,22 @@ tags:
 > | Subspecies |   |
 > | Population |   |
 > | Lifespan |   |
+> | Languages | |
 >  ###### Appearance
->  | Type of Traits | Commonly |
->  | ---- | ---- |
->  | Skin Color(s) |   |
->  | Hair Color(s) |   |
->  | Eye Color(s) |   |
->  | Typical Build |   |
->  | Other Traits |   |
->  | Average Weight |   |
+> | Traits |   |
+> | ---- | ---- |
+> | Skin Color(s) |  |
+> | Hair Color(s) |  |
+> | Eye Color(s) |   |
+> | Typical Build |   |
+> | Average Weight | |
+> | Other Traits |   |
 
 # About {{Title}}
+
+
+
+# History
 
 
 
@@ -32,12 +39,21 @@ tags:
 
 
 
+# Culture
+
+## Names
+
+
+
+## Call to Adventure
+
+
+
 # Society
 
 
 
-# Culture
 
 
 
-# History
+

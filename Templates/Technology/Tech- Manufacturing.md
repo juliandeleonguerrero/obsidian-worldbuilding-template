@@ -2,6 +2,7 @@
 tags:
   - technology
   - manufacturing
+aliases:
 ---
 # About {{Title}}
 

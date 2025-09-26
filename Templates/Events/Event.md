@@ -1,8 +1,16 @@
 ---
 tags:
   - event
-  - timeline
-fc-date:
+fc-date: 
+fc-category: 
+aat-render-enabled: false
+timelines:
+  - World History
+fc-end: 
+fc-display-name: 
+aliases: 
+aat-event-body: 
+aat-event-picture:
 ---
 > [!infobox]
 > # `{{title}}`

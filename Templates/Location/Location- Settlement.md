@@ -1,7 +1,9 @@
 ---
 tags:
-- location
-- settlement
+  - location
+  - settlement
+aliases:
+cover-image:
 ---
 > [!infobox]
 > # `{{title}}`
@@ -18,7 +20,6 @@ tags:
 > | Humankind |  |
 > | Industries |   |
 > | Religion |   |
-
 # Description
 
 

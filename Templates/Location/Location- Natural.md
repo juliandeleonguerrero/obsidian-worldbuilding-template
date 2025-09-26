@@ -1,7 +1,9 @@
 ---
 tags:
-- location
-- natural
+  - location
+  - natural
+aliases:
+cover-image:
 ---
 > [!infobox]
 > # `{{title}}`
@@ -12,9 +14,7 @@ tags:
 > | Other Titles |  |
 > | Region |  |
 > | Size |  |
-
 # Description
-
 ## About
 
 

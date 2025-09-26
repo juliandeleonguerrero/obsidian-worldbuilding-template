@@ -2,6 +2,8 @@
 tags:
   - agriculture
   - material
+aliases:
+cover-image:
 ---
 > [!infobox]
 > # `{{title}}`

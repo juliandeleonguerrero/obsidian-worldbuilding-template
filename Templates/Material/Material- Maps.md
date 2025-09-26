@@ -1,7 +1,9 @@
 ---
 tags:
-- material
-- map
+  - material
+  - map
+aliases:
+cover-image:
 ---
 > [!infobox]
 > # `{{title}}`
@@ -12,7 +14,6 @@ tags:
 > | Type of Map |  |
 > | Number in print |  |
 > | Origin/Creator |   |
-
 # About {{Title}}
 
 ## Known Inaccuracies

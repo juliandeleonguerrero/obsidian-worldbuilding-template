@@ -1,7 +1,10 @@
 ---
 tags:
-- political
-- group
+  - politics
+  - group
+aliases:
+cover-image:
+group_status:
 ---
 > [!infobox]
 > # `{{title}}`

@@ -1,7 +1,10 @@
 ---
 tags:
-- combat
-- group
+  - combat
+  - group
+aliases:
+cover-image:
+group_status:
 ---
 > [!infobox]
 > # `{{title}}`
@@ -16,14 +19,7 @@ tags:
 > | Languages |  |
 > | Status |  |
 
-# Description
-
-## About
-
-
-
-## Abilities
-
+# About {{Title}}
 
 
 # History

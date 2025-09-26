@@ -1,7 +1,7 @@
 ---
 tags:
-  - lore
-  - society
+  - location
+  - feature
 aliases:
 cover-image:
 ---
@@ -9,20 +9,15 @@ cover-image:
 > # `{{title}}`
 > ![[Image.png|200]]
 > ###### About
-> | Lore Concept |   |
+> | Location Type |   |
 > | ---- | ---- |
 > | Other Titles |  |
-> | Participants |  |
-> | Connected to |   |
+> | Region |  |
+> | Size |  |
 
 # Description
 
 
 
-# History
-
-
-
-# Related
-
+# Other Notes
 

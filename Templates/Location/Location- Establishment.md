@@ -1,7 +1,9 @@
 ---
 tags:
-- location
-- establishment
+  - location
+  - establish
+aliases:
+cover-image:
 ---
 > [!infobox]
 > # `{{title}}`

@@ -1,7 +1,9 @@
 ---
 tags:
-- customs
-- society
+  - customs
+  - society
+aliases:
+cover-image:
 ---
 > [!infobox]
 > # `{{title}}`

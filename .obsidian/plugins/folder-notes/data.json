@@ -5,22 +5,11 @@
   "hideFolderNote": true,
   "templatePath": "",
   "autoCreate": true,
+  "autoCreateFocusFiles": true,
+  "autoCreateForAttachmentFolder": false,
+  "autoCreateForFiles": false,
   "enableCollapsing": false,
-  "excludeFolders": [
-    {
-      "type": "folder",
-      "path": "Templates",
-      "subFolders": true,
-      "disableSync": true,
-      "disableAutoCreate": true,
-      "disableFolderNote": false,
-      "enableCollapsing": false,
-      "position": 0,
-      "excludeFromFolderOverview": false,
-      "string": "",
-      "hideInSettings": false
-    }
-  ],
+  "excludeFolders": [],
   "whitelistFolders": [],
   "showDeleteConfirmation": true,
   "underlineFolder": true,
@@ -28,6 +17,8 @@
   "underlineFolderInPath": true,
   "openFolderNoteOnClickInPath": true,
   "openInNewTab": false,
+  "focusExistingTab": false,
+  "oldFolderNoteName": "{{folder_name}}",
   "folderNoteName": "{{folder_name}}",
   "folderNoteType": ".md",
   "disableFolderHighlighting": false,
@@ -53,7 +44,16 @@
     "onlyIncludeSubfolders": false,
     "storeFolderCondition": true,
     "showFolderNotes": false,
-    "disableCollapseIcon": true
+    "disableCollapseIcon": true,
+    "alwaysCollapse": false,
+    "autoSync": true,
+    "allowDragAndDrop": true,
+    "hideLinkList": true,
+    "hideFolderOverview": false,
+    "useActualLinks": false,
+    "fmtpIntegration": false,
+    "titleSize": 1,
+    "isInCallout": false
   },
   "useSubmenus": true,
   "syncMove": true,
@@ -102,6 +102,21 @@
     "hideInSettings": false
   },
   "hideCollapsingIcon": false,
+  "hideCollapsingIconForEmptyFolders": false,
   "tabManagerEnabled": true,
-  "ignoreAttachmentFolder": true
+  "ignoreAttachmentFolder": true,
+  "deleteFilesAction": "trash",
+  "openSidebar": {
+    "mobile": false,
+    "desktop": true
+  },
+  "highlightFolder": true,
+  "persistentSettingsTab": {
+    "afterRestart": true,
+    "afterChangingTab": true
+  },
+  "firstTimeInsertOverview": true,
+  "fvGlobalSettings": {
+    "autoUpdateLinks": false
+  }
 }

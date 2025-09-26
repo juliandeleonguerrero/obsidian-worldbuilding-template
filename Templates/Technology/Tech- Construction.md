@@ -2,6 +2,7 @@
 tags:
   - technology
   - construction
+aliases:
 ---
 # About {{Title}}
 

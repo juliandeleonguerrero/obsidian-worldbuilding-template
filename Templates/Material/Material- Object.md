@@ -1,7 +1,9 @@
 ---
 tags:
-- material
-- object
+  - material
+  - object
+aliases:
+cover-image:
 ---
 > [!infobox]
 > # `{{title}}`

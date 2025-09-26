@@ -1,7 +1,9 @@
 ---
 tags:
-- material
-- geography
+  - material
+  - geography
+aliases:
+cover-image:
 ---
 # About {{Title}}
 

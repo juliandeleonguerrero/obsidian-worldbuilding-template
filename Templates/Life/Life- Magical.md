@@ -1,7 +1,9 @@
 ---
 tags:
-- life
-- magic
+  - life
+  - magic
+aliases:
+cover-image:
 ---
 > [!infobox]
 > # `{{title}}`
@@ -13,7 +15,6 @@ tags:
 > | Area |  |
 > | Subspecies |   |
 > | Population |   |
-
 # About {{Title}}
 
 

@@ -1,7 +1,10 @@
 ---
 tags:
-- population
-- group
+  - population
+  - group
+aliases:
+cover-image:
+group_status:
 ---
 > [!infobox]
 > # `{{title}}`

@@ -1,7 +1,9 @@
 ---
 tags:
-- material
-- climate
+  - material
+  - climate
+aliases:
+cover-image:
 ---
 > [!infobox]
 > # `{{title}}`

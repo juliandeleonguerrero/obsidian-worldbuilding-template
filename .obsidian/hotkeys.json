@@ -1,13 +1,4 @@
 {
-  "insert-template": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "I"
-    }
-  ],
   "obsidian-admonition:insert-callout": [
     {
       "modifiers": [
@@ -15,6 +6,14 @@
         "Shift"
       ],
       "key": "O"
+    }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "I"
     }
   ]
 }

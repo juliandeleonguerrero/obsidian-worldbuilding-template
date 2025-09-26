@@ -3,6 +3,8 @@ tags:
   - location
   - landmark
   - dungeon
+aliases:
+cover-image:
 ---
 > [!infobox]
 > # `{{title}}`
@@ -32,6 +34,11 @@ tags:
 
 
 ## 01- 
+
+
+
+# Handouts
+
 
 
 # Planning

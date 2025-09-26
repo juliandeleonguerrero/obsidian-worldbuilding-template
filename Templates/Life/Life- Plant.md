@@ -1,7 +1,9 @@
 ---
 tags:
-- life
-- plant
+  - life
+  - plant
+aliases:
+cover-image:
 ---
 > [!infobox]
 > # `{{title}}`
@@ -12,7 +14,6 @@ tags:
 > | Grows in |  |
 > | Subspecies |   |
 > | Rarity |   |
-
 # About {{Title}}
 
 

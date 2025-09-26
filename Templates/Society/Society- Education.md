@@ -1,7 +1,9 @@
 ---
 tags:
-- education
-- society
+  - education
+  - society
+aliases:
+cover-image:
 ---
 > [!infobox]
 > # `{{title}}`

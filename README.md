@@ -4,7 +4,9 @@ tags:
 ---
 # About
 
-This is a worldbuilding template vault (Obsidian's term for a notebook) for use with the **Obsidian.md** notetaking software. The vault is already setup with basic organization, worldbuilding templates, and plugins that you may find useful for your needs.
+This is a worldbuilding template vault (notebook) for the Obsidian.md notetaking software.
+
+This vault is already setup with a basic organization structure, various templates, and plugins that help with planning and writing. It is aimed at both fantasy writers, and at TTRPG game masters (GMs).
 
 # Installing
 
@@ -34,4 +36,4 @@ Pull requests are also accepted, as long as they include a clear explanation of 
 
 # Want to donate?
 
-Donate to the cool plugin developers who are responsible for the plugins in this template! Many of them have a donation page, and they've certainly earned a few bucks for their freely-offered work.
+Donate to the cool plugin developers who are responsible for the plugins in this template vault! Many of them have a donation page, and they've earned a few bucks for their mostly-volunteer work. I list each plugin, and their license here:  [[03- Community Plugins]].

@@ -1,7 +1,9 @@
 ---
 tags:
-- material
-- affliction
+  - material
+  - affliction
+aliases:
+cover-image:
 ---
 > [!infobox]
 > # `{{title}}`

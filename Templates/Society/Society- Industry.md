@@ -2,6 +2,8 @@
 tags:
   - society
   - industry
+aliases:
+cover-image:
 ---
 > [!infobox]
 > # `{{Title}}`

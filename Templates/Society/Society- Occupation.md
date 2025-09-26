@@ -1,7 +1,9 @@
 ---
 tags:
-- job
-- society
+  - job
+  - society
+aliases:
+cover-image:
 ---
 > [!infobox]
 > # {{Title}}
@@ -12,7 +14,6 @@ tags:
 > | Activity Sector |  |
 > | Related Jobs |  |
 > | Important {{Title}}s |   |
-
 # {{Title}}
 
 

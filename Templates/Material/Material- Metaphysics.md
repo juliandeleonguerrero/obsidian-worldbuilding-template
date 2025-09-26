@@ -1,7 +1,9 @@
 ---
 tags:
-- material
-- physic
+  - material
+  - physic
+aliases:
+cover-image:
 ---
 > [!infobox]
 > # `{{title}}`

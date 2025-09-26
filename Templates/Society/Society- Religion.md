@@ -1,7 +1,9 @@
 ---
 tags:
-- society
-- religion
+  - society
+  - religion
+aliases:
+cover-image:
 ---
 > [!infobox]
 > # `{{title}}`
@@ -19,7 +21,6 @@ tags:
 > | Prominent Scriptures |   |
 > | Founder |   |
 > | Origin |   |
-
 # Description
 
 

@@ -1,7 +1,9 @@
 ---
 tags:
-- life
-- animal
+  - life
+  - animal
+aliases:
+cover-image:
 ---
 > [!infobox]
 > # `{{title}}`

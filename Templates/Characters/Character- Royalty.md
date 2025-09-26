@@ -1,8 +1,13 @@
 ---
 tags:
   - character
+  - politics
   - royal
-  - political
+aliases:
+cover-image:
+token-image:
+char_affiliation:
+char_status:
 ---
 > [!infobox]
 > # `{{title}}`

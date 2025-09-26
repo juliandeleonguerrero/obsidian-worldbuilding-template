@@ -1,10 +1,11 @@
 ---
 tags:
   - location
-  - landmark
+  - subdivision
 aliases:
 cover-image:
 ---
+
 > [!infobox]
 > # `{{title}}`
 > ![[Image.png|200]]
@@ -12,10 +13,18 @@ cover-image:
 > | Location Type |   |
 > | ---- | ---- |
 > | Other Titles |  |
-> | Region |  |
-> | Size |  |
-
+> | Area |  |
+> | Prominent locations within {{title}} |   |
 # Description
+## About
+
+
+
+## Features
+
+
+
+## Populations
 
 
 
@@ -28,4 +37,5 @@ cover-image:
 
 
 # Other Notes
+
 

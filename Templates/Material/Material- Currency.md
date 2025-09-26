@@ -1,8 +1,10 @@
 ---
 tags:
-- material
-- currency
-- economy
+  - material
+  - currency
+  - econ
+aliases:
+cover-image:
 ---
 > [!infobox]
 > # `{{title}}`

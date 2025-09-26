@@ -1,6 +1,11 @@
 ---
 tags:
-- character
+  - character
+aliases:
+cover-image:
+token-image:
+char_affiliation:
+char_status:
 ---
 > [!infobox]
 > # `{{title}}`

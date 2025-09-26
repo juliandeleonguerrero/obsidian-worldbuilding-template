@@ -4,9 +4,9 @@ tags:
 ---
 # About Community Plugins
 
-This worldbuilding template vault includes a few community-developed plugins to help with editing and worldbuilding. Obsidian's base functionality includes several plugins, but the Obsidian community has also worked to support Obsidian with various quality of life and functionality-extending plugins.
+This worldbuilding vaults includes a few community-developed plugins to improve upon Obsidian's base functionality, and to add useful quality of life features.
 
-The community plugins included with this vault are listed below, with instruction on what they do and how to use them. Links to the original repositories and documentation are included as well. Each plugin's [software license](https://en.wikipedia.org/wiki/Software_license) has also been noted.
+Each community plugin included with this vault are listed below. Instructions on what they do and how to use them are also included. Finally, each plugin's repo and  [software license](https://en.wikipedia.org/wiki/Software_license) are documented.
 
 Keep in mind that plugins are *software*. If you are experiencing bugs in Obsidian while editing, it may be due to a community plugin. I would recommend at least skimming Obsidian's documentation on [community plugins](https://help.obsidian.md/Extending+Obsidian/Community+plugins) for information on how to manage third-party plugins.
 
@@ -42,11 +42,19 @@ You can create more within the Admonitions plugin menu. Ctrl+Shift+O has been se
 
 [Admonitions by javalent](https://github.com/javalent/admonitions) *MIT License*
 
+# Aprils Automatic Timelines
+
+April's Automatic Timelines allow you to create timelines based off of events you've created within your notes. While complicated to begin using, it can be *extraordinarily helpful* for organizing the history of your world, especially for campaign events in a TTRPG campaign.
+
+I strongly, strongly recommend reading the documentation for this plugin. You can find it within the repo linked below.
+
+[Aprils Automatic Timelines by April](https://github.com/April-Gras/obsidian-auto-timelines) *MIT License*
+
 # Calendarium
 
 Calendarium allows you to create, import, and manage a fantasy calendar for your world. It manages lunar cycles, seasons, months, intercalary days, and much more. 
 
-There's a lot to this plugin. If you're a stickler for fantasy dates and managing the calendar, I would strongly recommend reading the [documentation available here](https://plugins.javalent.com/calendarium) to create your own calendar. The [[Event]] template is already pre-filled with necessary metadata fields for you to set dates, and event categories in, once your calendar has been created.
+There's a lot to this plugin. If you're a stickler for fantasy dates and managing the calendar, I recommend reading the [documentation available here](https://plugins.javalent.com/calendarium) to create your own calendar. The [[Event]] template is already pre-filled with necessary metadata fields for you to set dates and event categories in, once your calendar has been created.
 
 [Calendarium by javalent](https://github.com/javalent/calendarium) *MIT License*
 
@@ -108,7 +116,7 @@ The Tabout plugin is as simple as it sounds- it allows you to tab out of "markup
 
 Just press tab after you are done with formatting, and the text cursor will immediately jump out of the formatting. If you require further uses of tabout than have already been created, you can add them within the plugin settings.
 
-[Tabout by phibr0](https://github.com/phibr0/obsidian-tabout) *AGLP 3.0*
+[Tabout by phibr0](https://github.com/phibr0/obsidian-tabout) *AGPL 3.0*
 
 # Tag Wrangler
 
@@ -124,31 +132,32 @@ The Waypoint plugin is used within folder notes, and allows for dynamic generati
 
 The generated table of contents will be formatted in markdown, so it still works even if the plugin breaks or is uninstalled. Please bear in mind that if either happen, the table of contents will no longer be updated automatically.
 
-The [[Folder Note Template]] comes with Waypoint almost ready to go.
+The [[Main Category Folder Note]] and [[Subcategory Folder Note]] templates come with Waypoint almost ready to go.
 
 ![[waypoint-example.png]]
+![[landmark-example.png]]
+When inserting these templates, delete the space between the latter two `%` signs, and it will begin working (due to how the plugin works, Waypoint cannot be setup in full beforehand).
 
-When inserting the template into a folder note, delete the space between the latter two percentage signs, and it will begin working (due to how the plugin works, Waypoint cannot be set up in full beforehand).
 
 [Waypoint by IdreesInc](https://github.com/IdreesInc/Waypoint) *MPL 2.0*
 
 # ITS Theme
 
-The ITS theme is used as the default theme for a few reasons.
+The ITS theme is used for this vault, for a few reasons.
 
-- First and foremost, the theme supports a dizzying number of [custom callouts](https://publish.obsidian.md/slrvb-docs/ITS+Theme/Callouts/Callout+-+Infoboxes). There's a truly dizzying number of creative ways these can be utilized, including support of statblocks. But the most important one for this vault are the infobox callouts, as shown below.
-	- ![[infobox-callout-its-pre-example.png|500]]
-	- ![[infobox-callout-its-example.png|500]]
-	- As shown above, the infobox will render to the right of the text in reading mode, allowing for an aesthetic similar to Wikipedia. I find it works quite well when you need to quickly skim information on a character.
-- The ITS theme is aesthetically pleasing, and works well in both dark and light mode. The light mode support is especially handy when exporting a note for your players/reader, or when printing it out.
-- ITS theme supports Obsidian Publish ([see here for more details](https://publish.obsidian.md/slrvb-docs/ITS+Theme/Publish+Theme).) This means that if you wish to host a website for your worldbuilding, your readers/players will be able to view your articles with the same theming that you are writing them in.
+1. First and foremost, the theme supports a dizzying number of [custom callouts](https://publish.obsidian.md/slrvb-docs/ITS+Theme/Callouts/Callout+-+Infoboxes). There's a truly dizzying number of creative ways these can be utilized, including support of statblocks. But the most important one for this vault are the infobox callouts, as shown below.
+   ![[infobox-callout-its-pre-example.png|500]]
+   The above may look like nonsense text, but will be rendered as shown below, providing a useful way to quickly skim information on a character:
+   ![[infobox-callout-its-example.png|500]]
+2. The ITS theme is aesthetically pleasing, and works well in both dark and light mode. The light mode support is especially handy when exporting a note for your players/reader, or when printing it out.
+3. The ITS theme supports Obsidian Publish ([see here for more details](https://publish.obsidian.md/slrvb-docs/ITS+Theme/Publish+Theme).) This means that if you wish to host a website for your worldbuilding, your readers/players will be able to view your articles with the same theming that you are writing them in.
 
-While not technically a plugin, the ITS theme does so much that I've included it in this vault, and the documentation.
+While not technically a plugin, the ITS theme does so much that I've included it in this vault.
 
 [Obsidian ITS theme by SIRvb](https://github.com/SlRvb/Obsidian--ITS-Theme) *GPL 2.0*
 
 ## ITS Callout Snippet
 
-If you want the ITS theme callout functionality without using the ITS theme, you can have it via the Style Settings plugin. Just switch themes, and then enable the its-callouts snippet within the Appearance tab of the settings menu of Obsidian.
+If you want the ITS theme callout functionality without using the ITS theme, you can have it via the Style Settings plugin. Just switch themes, and then enable the `its-callouts` snippet within the Appearance tab of the settings menu of Obsidian.
 
 [ITS theme callout documentation](https://publish.obsidian.md/slrvb-docs/ITS+Theme/Callout+Adjustments)

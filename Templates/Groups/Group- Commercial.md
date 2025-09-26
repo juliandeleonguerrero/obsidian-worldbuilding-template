@@ -1,7 +1,10 @@
 ---
 tags:
-- commercial
-- group
+  - commercial
+  - group
+aliases:
+cover-image:
+group_status:
 ---
 > [!infobox]
 > # `{{title}}`

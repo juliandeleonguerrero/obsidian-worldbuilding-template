@@ -1,7 +1,9 @@
 ---
 tags:
-- lore
-- society
+  - lore
+  - society
+aliases:
+cover-image:
 ---
 
 # About {{Title}}

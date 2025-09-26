@@ -2,6 +2,7 @@
 tags:
   - technology
   - transportation
+aliases:
 ---
 # About {{Title}}
 

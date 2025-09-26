@@ -8,15 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "0a5898ee9ca77267",
+            "id": "9078e2d5009d63fa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/Location/Location- Settlement.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -39,8 +41,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -55,7 +60,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           }
         ]
@@ -70,7 +77,9 @@
             "type": "leaf",
             "state": {
               "type": "recent-files",
-              "state": {}
+              "state": {},
+              "icon": "clock",
+              "title": "Recent Files"
             }
           },
           {
@@ -78,7 +87,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -102,8 +113,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Templates/Location/Location- Settlement.md"
-              }
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
             }
           },
           {
@@ -113,8 +129,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "alphabetical",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -131,7 +151,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Location- Settlement"
             }
           },
           {
@@ -143,7 +165,9 @@
                 "file": "Templates/Location/Location- Settlement.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Location- Settlement"
             }
           }
         ]
@@ -157,7 +181,9 @@
             "id": "30a19a9c9ba50027",
             "type": "leaf",
             "state": {
-              "type": "CALENDARIUM"
+              "type": "CALENDARIUM",
+              "icon": "CALENDARIUM",
+              "title": "Calendarium"
             }
           },
           {
@@ -165,7 +191,9 @@
             "type": "leaf",
             "state": {
               "type": "advanced-tables-toolbar",
-              "state": {}
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ]
@@ -176,6 +204,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -189,48 +218,48 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "0a5898ee9ca77267",
+  "active": "9078e2d5009d63fa",
   "lastOpenFiles": [
+    "Templates/Narrative/Session Note.md",
+    "Templates/Narrative/Storyline.md",
     "README.md",
-    "Templates/Technology/Tech- Administrative.md",
+    "Documentation/Images/quick-tagger-example.png",
+    "Documentation/Images/tags-example-gods.png",
+    "Documentation/03- Community Plugins.md",
+    "Documentation/02- Best Practices.md",
+    "Documentation/Images/landmark-example.png",
+    "Templates/Categories/Main Category Folder Note.md",
+    "Templates/Categories/Subcategory Folder Note.md",
+    "Templates/Templates.md",
+    "Templates/Categories/Folder Note Template.md",
+    "04-.md",
+    "Documentation/01- Getting Started.md",
+    "Documentation/04- Git and Obsidian.md",
+    "Documentation/Documentation.md",
+    "Templates/Events/Event.md",
     "Templates/Technology/Tech- Transportation.md",
     "Templates/Technology/Tech- Medical.md",
     "Templates/Technology/Tech- Manufacturing.md",
     "Templates/Technology/Tech- Magical.md",
-    "Templates/Technology/Tech- Construction.md",
     "Templates/Technology/Tech- Culture.md",
+    "Templates/Technology/Tech- Construction.md",
     "Templates/Technology/Tech- Communication.md",
     "Templates/Technology/Tech- Agricultural.md",
-    "Templates/Characters/Character.md",
-    "Templates/Material/Material- Resource.md",
-    "Templates/Material/Material- Afflictions.md",
-    "Technology/Technology.md",
-    "Society/Religion/Religion.md",
-    "Society/Society.md",
+    "Templates/Technology/Tech- Administrative.md",
+    "Templates/Location/Location- Establishment.md",
+    "Templates/Material/Material- Object (Minecart).md",
+    "Templates/Location/Location- Feature.md",
     "Technology",
-    "Templates/Society/Society- Art.md",
     "Templates/Technology",
-    "Documentation/04- Git and Obsidian.md",
-    "Characters/God of Evil.md",
-    "Events/War against the heavens.md",
-    "Documentation/01- Getting Started.md",
-    "Templates/Material/Material- Metaphysics.md",
-    "Templates/Location/Location- Settlement.md",
-    "Templates/Location/Location- Natural.md",
-    "Templates/Location/Location- Nation.md",
-    "Locations/Curly's Cabin in the woods.md",
     "Obsidian-Worldbuilding-Template-Vault-by-DG",
     "Documentation/Images/infobox-callout-its-pre-example.png",
     "Documentation/Images/infobox-callout-its-example.png",
     "Documentation/Images/waypoint-example.png",
-    "Documentation/Images/quick-tagger-example.png",
     "Documentation/Images/iconize-example.png",
     "Documentation/Images/folder-notes-example.png",
     "Pasted image 20240508113306.png",
     "Documentation/Images/wikipedia-outline.png",
-    "Documentation/Images/headers-outline.png",
     "Templates/Characters",
-    "Documentation/Images/template-screenshot.png",
     "Documentation/Best Practices",
     "Templates/Rules",
     "Templates/Groups"

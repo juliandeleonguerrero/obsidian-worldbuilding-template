@@ -1,8 +1,13 @@
 ---
 tags:
   - character
-  - religion
   - god
+  - religion
+aliases:
+cover-image:
+token-image:
+char_affiliation:
+char_status:
 ---
 > [!infobox]
 > # `{{title}}`
@@ -38,5 +43,4 @@ tags:
 
 
 # Other Notes
-
 

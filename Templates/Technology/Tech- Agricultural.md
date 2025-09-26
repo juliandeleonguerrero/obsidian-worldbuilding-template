@@ -2,6 +2,7 @@
 tags:
   - technology
   - agriculture
+aliases:
 ---
 # About {{Title}}
 

@@ -3,6 +3,7 @@ tags:
   - technology
   - society
   - culture
+aliases:
 ---
 # About {{Title}}
 
