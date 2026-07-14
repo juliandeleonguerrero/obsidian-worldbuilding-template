@@ -57,6 +57,8 @@ To use a template, simply create a note and title it appropriately, and then ins
 - **Narrative**
 	- [[Session Note]]
 	- [[Storyline]]
+- **PF2e**
+	- [[Material- Magical Item pf2e]]
 - **Society**
 	- [[Society- Art]]
 	- [[Society- Customs]]

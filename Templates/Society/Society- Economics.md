@@ -1,6 +1,6 @@
 ---
 tags:
-  - econ
+  - economy
   - society
 aliases:
 cover-image:

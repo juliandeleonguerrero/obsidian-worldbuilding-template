@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "be656d74eacc1256",
+        "id": "494ce1b73763c508",
         "type": "tabs",
         "children": [
           {
-            "id": "9078e2d5009d63fa",
+            "id": "8c5bb5b7a6be0d8e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "New tab"
             }
           }
         ]
@@ -54,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#economy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +75,7 @@
               "type": "recent-files",
               "state": {},
               "icon": "clock",
-              "title": "Recent Files"
+              "title": "Recent files"
             }
           },
           {
@@ -113,13 +109,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline"
             }
           },
           {
@@ -170,7 +165,8 @@
               "title": "Outgoing links from Location- Settlement"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "543a174d81804f8b",
@@ -218,11 +214,22 @@
       "calendarium:Open Calendarium": false
     }
   },
-  "active": "9078e2d5009d63fa",
+  "active": "8c5bb5b7a6be0d8e",
   "lastOpenFiles": [
-    "Templates/Narrative/Session Note.md",
+    "Templates/PF2e/Material- Magical Item pf2e.md",
     "Templates/Narrative/Storyline.md",
+    "Templates/PF2e/PF2e.md",
+    "Templates/PF2e",
+    "Templates/Society/Society- Customs.md",
+    "Templates/Technology/Tech- Medical.md",
+    "Templates/Technology/Tech- Manufacturing.md",
+    "Templates/Technology/Tech- Magical.md",
     "README.md",
+    "Templates/Location/Location- Dungeon.md",
+    "Templates/Characters/Character- God.md",
+    "Templates/Characters/Character.md",
+    "Templates/Groups/Group- Combat.md",
+    "Templates/Narrative/Session Note.md",
     "Documentation/Images/quick-tagger-example.png",
     "Documentation/Images/tags-example-gods.png",
     "Documentation/03- Community Plugins.md",
@@ -238,17 +245,7 @@
     "Documentation/Documentation.md",
     "Templates/Events/Event.md",
     "Templates/Technology/Tech- Transportation.md",
-    "Templates/Technology/Tech- Medical.md",
-    "Templates/Technology/Tech- Manufacturing.md",
-    "Templates/Technology/Tech- Magical.md",
     "Templates/Technology/Tech- Culture.md",
-    "Templates/Technology/Tech- Construction.md",
-    "Templates/Technology/Tech- Communication.md",
-    "Templates/Technology/Tech- Agricultural.md",
-    "Templates/Technology/Tech- Administrative.md",
-    "Templates/Location/Location- Establishment.md",
-    "Templates/Material/Material- Object (Minecart).md",
-    "Templates/Location/Location- Feature.md",
     "Technology",
     "Templates/Technology",
     "Obsidian-Worldbuilding-Template-Vault-by-DG",

@@ -1,5 +1,34 @@
 {
-  "recentFiles": [],
+  "recentFiles": [
+    {
+      "basename": "Material- Magical Item pf2e",
+      "path": "Templates/PF2e/Material- Magical Item pf2e.md"
+    },
+    {
+      "basename": "Storyline",
+      "path": "Templates/Narrative/Storyline.md"
+    },
+    {
+      "basename": "Society- Customs",
+      "path": "Templates/Society/Society- Customs.md"
+    },
+    {
+      "basename": "Tech- Medical",
+      "path": "Templates/Technology/Tech- Medical.md"
+    },
+    {
+      "basename": "Tech- Manufacturing",
+      "path": "Templates/Technology/Tech- Manufacturing.md"
+    },
+    {
+      "basename": "Tech- Magical",
+      "path": "Templates/Technology/Tech- Magical.md"
+    },
+    {
+      "basename": "README",
+      "path": "README.md"
+    }
+  ],
   "omittedPaths": [],
   "omittedTags": [],
   "updateOn": "file-open",
